@@ -1,4 +1,5 @@
-# WebScraping de la Bolsa de Valores de Lima (BVL)
+# WebScraping de la Bolsa de Valores de Lima (BVL<img align="left" src="https://user-images.githubusercontent.com/106767513/230691533-9372e313-a53e-4b37-872f-9e0fed3fb15f.png" width="10%">) <img align="right" src="https://user-images.githubusercontent.com/106767513/230691533-9372e313-a53e-4b37-872f-9e0fed3fb15f.png" width="10%">
+
 Proyecto que consiste en extraer información de la Bolsa de Valores de Lima y almacenarla para su posterior análisis.
 Puedes​ revisar la página en la que se trabajó en el siguiente link: https://www.bvl.com.pe/mercado/movimientos-diarios
 El proyecto consiste es dos secciones: 
