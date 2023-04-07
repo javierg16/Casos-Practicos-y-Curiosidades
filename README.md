@@ -1,4 +1,4 @@
-# Casos-Practicos-y-Curiosidades
+# WebScraping de la Bolsa de Valores de Lima (BVL)
 Proyecto que consiste en extraer información de la Bolsa de Valores de Lima y almacenarla para su posterior análisis.
 Puedes​ revisar la página en la que se trabajó en el siguiente link: https://www.bvl.com.pe/mercado/movimientos-diarios
 El proyecto consiste es dos secciones: 
