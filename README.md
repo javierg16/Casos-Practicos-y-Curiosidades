@@ -13,5 +13,9 @@ El proyecto consiste de dos secciones:
 
 La información que se encuentra en el [link](https://www.bvl.com.pe/mercado/movimientos-diarios), constituye el registro de las variaciones del precio de las acciones de las empresas listadas en  la BVL, y estas se encuentran variando durante el día desde que abre hasta que cierra la bolsa, con ello se puede dar cuenta del comportamiento del mercado, una información de gran importancia para los que invierten en la Bolsa y buscan rentabilidades. Por ello, considero útil el tener un medio con el cual se pueda tener un acceso más rápido a tal información y de acuerdo a los intereses de cada uno. Una vez extraída la información, podemos  echar un vistazo preliminar de los movimientos de la Bolsa en el siguiente gráfico: 
 
-
 ![figura](https://user-images.githubusercontent.com/106767513/230802046-2a88c122-94a0-4e17-8584-7ba4646c816c.png)
+
+Así mismo, para mayor detalle del código, se muestra un video de la ejecución del mismo, donde se puede apreciar cómo se extrae la información en tiempo real gracias a la librería Selenium de Python:
+
+https://user-images.githubusercontent.com/106767513/231221054-af8d0a77-5818-4d12-b3ed-e5f1e1f7b9b4.mp4
+
