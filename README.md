@@ -17,5 +17,14 @@ La información que se encuentra en el [link](https://www.bvl.com.pe/mercado/mov
 
 Así mismo, para mayor detalle del código, se muestra un video de la ejecución del mismo, donde se puede apreciar cómo se extrae la información en tiempo real gracias a la librería Selenium de Python:
 
+
 https://user-images.githubusercontent.com/106767513/231221054-af8d0a77-5818-4d12-b3ed-e5f1e1f7b9b4.mp4
+
+
+## WebScraping de los Estados Financieros de las empresas que cotizan en la BVL
+
+En esta sección del código se extraen los Estados Financieros(EF) de las empresas que cotizan en la bolsa, podemos elegir cualquier empresa, siempre y cuando cuente con un enlace que nos lleve a su información financiera. A modo de ejemplo se eligieron a Alicorp y Volcan, de los cuales se extrajeron los EF anuales de 4 años consecutivos, en el código se puede elegir el número de periodos o años que se deseen. Toda esa información pasa a ser guardada en los respectivos excel con el nombre de la empresa y contendrá hojas con el nombre de los EF y su respectivo año. Puede visualizar ese proceso en el siguiente video: 
+
+
+https://user-images.githubusercontent.com/106767513/232159267-74946e87-c921-4aae-bd8d-efde043e50b4.mp4
 
